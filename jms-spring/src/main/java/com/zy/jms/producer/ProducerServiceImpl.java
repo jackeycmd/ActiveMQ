@@ -1,4 +1,4 @@
-package com.etoak.jms.producer;
+package com.zy.jms.producer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;

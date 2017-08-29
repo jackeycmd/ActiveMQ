@@ -8,5 +8,5 @@
     <bean id="jmsTemplate" class="org.springframework.jms.core.JmsTemplate">
         <property name="connectionFactory" ref="connectionFactory"/>
     </bean>
-    <bean class="com.etoak.jms.producer.ProducerServiceImpl"/>
+    <bean class="com.zy.jms.producer.ProducerServiceImpl"/>
 </beans>

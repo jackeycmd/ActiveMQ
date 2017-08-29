@@ -1,4 +1,4 @@
-package com.etoak.jms.consumer;
+package com.zy.jms.consumer;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

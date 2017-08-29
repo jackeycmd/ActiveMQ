@@ -1,4 +1,4 @@
-package com.etoak.jms.consumer;
+package com.zy.jms.consumer;
 
 import javax.jms.JMSException;
 import javax.jms.Message;

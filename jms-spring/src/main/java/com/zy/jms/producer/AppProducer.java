@@ -1,6 +1,5 @@
-package com.etoak.jms.producer;
+package com.zy.jms.producer;
 
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
